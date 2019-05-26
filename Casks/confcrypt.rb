@@ -1,6 +1,6 @@
 cask 'confcrypt' do
   version 'v0.2.3'
-  sha256 'ef635317085dbdaad021c740846f41015fd1b2ff8084e75e16124209e3e6a6a2'
+  sha256 '9a5939c4268ba7f43753e3b6e03198a304296f6bcc31ef9fdafd4bbd04f2cb89'
 
   url "https://github.com/collegevine/confcrypt/releases/download/#{version}/confcrypt-darwin-x64.tar.gz"
   name 'ConfCrypt'
